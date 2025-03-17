@@ -1,2 +1,2 @@
-# Health Between Genders Tableau
-An analysis of health data comparing genders
+# Health Between Genders
+An analysis of health data comparing genders using Tableau
